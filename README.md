@@ -1,6 +1,6 @@
 # Event-Based Multi-Robot Consensus Control with EKF and Cost Evaluation
 
-This repository contains a ROS-based Python implementation for controlling multiple e-puck2 robots in a circular motion using **event-based state updates** and **Extended Kalman Filter (EKF)** for localization. The system computes linear and angular velocities for four robots while continuously evaluating a * cost** and logging robot states to an Excel file.
+This repository contains a ROS-based Python implementation for controlling multiple e-puck2 robots in a circular motion using **event-based state updates** and **Extended Kalman Filter (EKF)** for localization. The system computes linear and angular velocities for four robots while continuously evaluating a **cost** and logging robot states to an Excel file.
 
 ---
 
